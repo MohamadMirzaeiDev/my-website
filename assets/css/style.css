@@ -24,11 +24,11 @@ a:hover {
   text-decoration: none;
 }
 
-
-ul li {
+li{
   list-style: none;
+  display: flex;
+  justify-content: space-between;
 }
-
 
 h1,
 h2,
