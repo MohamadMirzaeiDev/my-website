@@ -14,6 +14,10 @@ body {
   background-color: #040b14;
 }
 
+.bg-color {
+  background-color: #040b14 !important;
+}
+
 a {
   color: #149ddd;
   text-decoration: none;
